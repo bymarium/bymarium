@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=0F9EF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mariana+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=f172bc&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mariana+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 <p align="center">
 <a href="https://github.com/bymarium">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bymarium&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bymarium&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bymarium&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bymarium&layout=compact&langs_count=8&theme=omni"/>
 </a>
 </p>
 
